@@ -1,3 +1,10 @@
+// ⠀⠀⠀⣀⢀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+// ⠀⣴⠟⢉⣿⢻⡇⠀⣤⢠⣤⣠⣤⡄⣤⣄⣤⢠⣤⣤⠀⣤⣤⢤⣤⣤⡄⣠⣤⡄
+// ⣼⠁⠀⣼⠏⢸⡇⢸⣿⣾⢃⣿⣁⢰⣿⣿⡏⣿⢃⣀⢸⣟⡀⣼⣇⣾⢧⣿⣀⠀
+// ⣯⠀⣼⣿⣤⣼⣅⢸⣿⠏⣼⡟⠉⣿⢿⣿⢹⡟⣸⡏⣿⠋⢡⣿⢹⡿⠘⢻⣿⠀
+// ⠸⣴⡿⠉⠉⠹⠇⢿⠟⠠⠿⠷⠺⠟⠸⠏⠿⢷⡿⠸⠿⠶⠾⠇⠾⠃⠶⠾⠇⠀
+// ⢰⣿⠳⠦⣤⠴⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 export default class Personagem{
     constructor(nome, codinome, armaPrincipal="Punhos", armaSecundaria="", velocidade=50, forca=50, resistencia=50){
         this.nome = nome,

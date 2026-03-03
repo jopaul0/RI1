@@ -26,3 +26,4 @@ for (let i = 0; i < listaDeHerois.length; i++) {
         console.log("---------------------------------------\n");
     }
 }
+
